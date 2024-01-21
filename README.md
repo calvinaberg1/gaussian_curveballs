@@ -1,6 +1,8 @@
 # Gaussian Curveballs
 Rice Datathon 2024 - Astros Track
 
+_Contributors: Calvin Aberg, Emma Gruber, Eleazar Martin, Will Miraglia_
+
 
 ## Files:
 
