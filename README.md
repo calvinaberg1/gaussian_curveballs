@@ -2,7 +2,7 @@
 Rice Datathon 2024 - Astros Track
 
 
-Files:
+## Files:
 
 Statcast Pitch-By_Pitch Analysis:
 - load_data_statcast.ipynb
